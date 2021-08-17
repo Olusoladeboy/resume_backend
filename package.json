@@ -1,0 +1,35 @@
+{
+  "name": "resume-backend",
+  "version": "1.0.0",
+  "description": "Backend Task For  HNG  8 Internship",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olusoladeboy/resume_backend.git"
+  },
+  "keywords": [
+    "hng8",
+    "backend",
+    "node"
+  ],
+  "author": "Emmanuel Olusola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olusoladeboy/resume_backend/issues"
+  },
+  "homepage": "https://github.com/Olusoladeboy/resume_backend#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect-flash": "^0.1.1",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.13.7",
+    "node-mailjet": "^3.3.4"
+  }
+}
