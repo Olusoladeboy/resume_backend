@@ -31,5 +31,8 @@
     "method-override": "^3.0.0",
     "mongoose": "^5.13.7",
     "node-mailjet": "^3.3.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
   }
 }

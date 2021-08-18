@@ -151,7 +151,8 @@ SECTION WRAPS
 /* Header Wrap */
 
 #headerwrap {
-  background: url(../img/header-bg.jpg) no-repeat center top;
+  /* background: url(../img/header-bg.jpg) no-repeat center top; */
+  background: url('http://dizstudio.ru/wp-content/uploads/2018/09/1400-800-07.jpg') no-repeat center top;
   margin-top: 60px;
   padding-top: 140px;
   text-align: center;
@@ -367,7 +368,8 @@ sm {
 .contact-form .error-message {
   display: none;
   color: #fff;
-  background: #ed3c0d;
+  background: #58ed0d;
+  /* background: #ed3c0d; */
   text-align: center;
   padding: 15px;
   font-weight: 600;
